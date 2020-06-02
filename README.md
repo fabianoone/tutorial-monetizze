@@ -12,13 +12,16 @@ Os Webhooks também podem ser chamados de Callback ou Postback!
 ### O que é um chave única?
 
 A chave única é um método de segurança adquirido pela Monetizze através de uma chave de letras e números aleatórios.
-Ex: "dc7tat1hwuheaqwjheak";
 
-A chave única não deve ser compartilhada a ninguém!
+Ex: ``"dc7tat1hwuheaqwjheadasdasdasdk"``
+
+##### A chave única não deve ser compartilhada a ninguém!
 
 ### O que é uma chave de produto?
 
 A chave de produto possui o mesmo funcionamento de uma chave única, mas ela é adquirida a cada produto cadastrado no sistema,
 ou seja, cada produto possui uma chave de segurança.
 
-A chave do produto não deve ser compartilhada a ninguém!
+Ex: ``"dc7tat1hwuheaqwjhedasdsadasak"``
+
+##### A chave do produto não deve ser compartilhada a ninguém!
